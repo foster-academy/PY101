@@ -11,3 +11,4 @@ Run Py Container (w/ Build Flag)
 `docker compose up --build`
 
 ## Python
+[Standard Deviation Calculator](https://github.com/mhackersu/sdc)
