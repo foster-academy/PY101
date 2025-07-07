@@ -13,11 +13,10 @@ Run Py Container (w/ Build Flag)
 ## Dockerfile
 - [Docker 101](https://github.com/foster-academy/docker101)
 
-## D3
-- [Domain Driven Design in Python](https://www.cosmicpython.com/book/preface.html)
-
 ## Py
-- [Refactoring Guru](https://refactoring.guru/design-patterns/python)
+- [Refactoring Guru in Python](https://refactoring.guru/design-patterns/python)
+- [D3 Patterns in Python](https://github.com/mhackersu/python-patterns/tree/master/patterns)
+- [Domain Driven Design in Python](https://www.cosmicpython.com/book/preface.html)
 
 # Apps
 - [Standard Deviation Calculator](https://github.com/mhackersu/sdc)
